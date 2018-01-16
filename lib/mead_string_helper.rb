@@ -1,4 +1,5 @@
 require "mead_string_helper/version"
+require "mead_string_helper/greetings"
 
 module MeadStringHelper
 
@@ -23,5 +24,5 @@ module MeadStringHelper
     end 
       new_string
   end 
-  
+
 end
